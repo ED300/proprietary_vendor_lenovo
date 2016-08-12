@@ -662,7 +662,7 @@
     </path>
 
     <path name="camcorder-mic">
-        <path name="handset-mic" />
+        <path name="speaker-mic" />
     </path>
 
     <path name="bt-sco-headset">
